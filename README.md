@@ -6,16 +6,16 @@ Dataset-Overview
 
 The dataset, collected by Konapure [https://www.kaggle.com/datasets/rishikeshkonapure/home-loan-approval] for Dream Housing Finance company, consists of a train and test set, each with 13 columns. The columns and encoded values are as follow:
 
-Loan_ID
-Gender - Female: 0; Male: 1
-Married – No: 0; Yes: 1
-Dependents – 0: 0 ; 1: 1; 2: 2; 3+:3
-Education – Graduate: 0; Not Graduate: 1
-Self_Employed – No: 0; Yes: 1
-ApplicantIncome
-CoapplicantIncome
-LoanAmount
-Loan_Amount_Term
-Credit_History: No: 0; Yes: 1
-Property_Area: Rural: 0; Semiurban: 1; Urban: 2
-Loan_Status (only train set)
+1. Loan_ID
+2. Gender - Female: 0; Male: 1
+3. Married – No: 0; Yes: 1
+4. Dependents – 0: 0 ; 1: 1; 2: 2; 3+:3
+5. Education – Graduate: 0; Not Graduate: 1
+6. Self_Employed – No: 0; Yes: 1
+7. ApplicantIncome
+8. CoapplicantIncome
+9. LoanAmount
+10. Loan_Amount_Term
+11. Credit_History: No: 0; Yes: 1
+12. Property_Area: Rural: 0; Semiurban: 1; Urban: 2
+13. Loan_Status (only train set)
